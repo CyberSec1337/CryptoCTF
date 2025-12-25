@@ -1,1 +1,1 @@
-# Finl projat CryptoCTF
+# Final project CryptoCTF
